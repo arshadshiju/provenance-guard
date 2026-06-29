@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+audit_log.json
+provenance-guard.zip
+.DS_Store
